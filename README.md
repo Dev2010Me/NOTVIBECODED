@@ -1,55 +1,36 @@
-# NOT AI VIBECODED FEEL FIX
+# NOT VIBE CODED
 
-A reusable AI coding skill for designing, auditing, and improving web interfaces without falling into generic AI-generated design patterns.
+A practical guide to building better interfaces with AI coding assistants.
 
-It helps coding agents produce interfaces that are purposeful, accessible, product-specific, and reliable—while preserving existing functionality and user data.
+NOT VIBE CODED focuses on reducing generic AI-generated design patterns and encouraging thoughtful, usable, accessible, and reliable software.
 
-## What it focuses on
+## What It Focuses On
 
-- **Understand before changing:** Inspect the existing project and the user's actual request.
-- **Preserve what works:** Avoid unnecessary rewrites, destructive storage resets, and unrelated refactoring.
-- **Design with purpose:** Avoid generic gradients, repetitive cards, decorative effects, fake metrics, and vague marketing copy.
-- **Build usable interfaces:** Account for accessibility, keyboard navigation, responsive layouts, and meaningful application states.
-- **Stay within scope:** Distinguish audits, plans, targeted fixes, and full redesigns.
-- **Verify honestly:** Test relevant workflows and clearly report what was and was not verified.
+- **Purposeful design** — Create interfaces that fit the product instead of relying on generic templates.
+- **Preserving functionality** — Keep existing features, workflows, architecture, and user data intact.
+- **Better user experience** — Prioritise usability, accessibility, responsive layouts, and meaningful interactions.
+- **Clean implementation** — Avoid unnecessary rewrites, dependencies, complexity, and unrelated changes.
+- **Real verification** — Test relevant functionality and report honestly about what has and has not been verified.
 
-## The Skill
+## Core Principles
 
-The complete instruction set is in [Skills-NOTVIBECODED](./Skills-NOTVIBECODED).
+1. Understand the product before making changes.
+2. Preserve what already works.
+3. Avoid generic and repetitive design patterns.
+4. Design for real users, not just screenshots.
+5. Make only changes that serve a clear purpose.
+6. Test the result and report honestly.
 
-## Using It
+## Repository Contents
 
-### Gemini Gem
+- **Skills-NOTVIBECODED** — The main set of instructions covering design, UX, accessibility, implementation, testing, and reporting.
 
-1. Open Gemini's Gem manager and create a Gem.
-2. Name it **NOT AI VIBECODED FEEL FIX**.
-3. Copy the contents of the skill file into the Gem's Instructions field.
-4. Save the Gem.
-5. Invoke it when asking Gemini to audit, fix, build, or improve a web interface.
+## Using This Project
 
-### Other AI Coding Assistants
+The instruction set can be adapted for AI coding assistants and development workflows that support custom instructions or project rules.
 
-Use the skill text in the assistant's supported custom-instructions or project-rules feature. If the tool supports a formal Agent Skills format, follow that tool's required file structure and metadata.
+It is intended to guide development, not replace project requirements, proper testing, or human review.
 
-The skill is guidance for the coding agent; it does not replace project-specific requirements, testing, or human review.
+## Contributing
 
-## Recommended Requests
-
-- "Audit this interface for generic AI design patterns. Don't change any files yet."
-- "Fix this interaction bug without changing unrelated features."
-- "Improve this page's visual hierarchy while preserving its current functionality."
-- "Review the mobile experience and implement the highest-impact fixes."
-
-## Design Philosophy
-
-Understand the product before changing it.
-
-**Preserve what works. Fix what is broken. Design for actual users. Avoid generic patterns. Implement only what is needed. Verify the result. Report honestly.**
-
-## Contributing and Feedback
-
-Suggestions, issue reports, and improvements are welcome. Please include the relevant context and a clear example of the problem or proposed improvement.
-
-## License
-
-No license has currently been specified. Public visibility does not automatically grant permission to freely reuse, modify, or redistribute this work.
+Suggestions, improvements, and issue reports are welcome. Please provide clear examples and explain the problem or proposed improvement.
