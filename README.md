@@ -31,6 +31,6 @@ The instruction set can be adapted for AI coding assistants and development work
 
 It is intended to guide development, not replace project requirements, proper testing, or human review.
 
-## Contributing
+## Feedback
 
 Suggestions, improvements, and issue reports are welcome. Please provide clear examples and explain the problem or proposed improvement.
